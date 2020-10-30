@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile grc/* setlocal filetype=grc
+autocmd BufRead,BufNewFile */grc/*,*/.grc/* setlocal filetype=grc
